@@ -1,0 +1,25 @@
+header{
+    .nav{
+      display: flex;
+      justify-content: space-between;
+      .logo{
+        img{
+    
+        }
+      }
+      nav{
+        ul{
+          display: flex;
+          justify-content: space-between;
+          li{
+    
+          }
+        }
+      }
+      .auth{
+        button{
+          
+        }
+      }
+    }
+  }
